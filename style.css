@@ -97,3 +97,10 @@ body {
   color: orange;
   margin-left: 10px;
 }
+tr{
+  border: white solid 2px;
+}
+th,td{
+  border: white solid 2px;
+  padding-left: 10px;
+}
